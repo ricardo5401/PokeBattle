@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Pikachu.unity
+  isLoaded: 1
+  isActive: 1
